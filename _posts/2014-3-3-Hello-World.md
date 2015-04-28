@@ -2,7 +2,6 @@
 layout: post
 title: My blog is just begun!
 ---
-
 This is the first post on my blog so far everything seem to work well.
 
 Credits github, barryclark who help me build this blog so easy.
