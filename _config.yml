@@ -14,16 +14,16 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
+BASE_PATH : ./
 
 title : Futranbg
 
 author:
-  name: Phương Trần
+  name: Phuong Tran
   role: Tekcafe technical team leader
   email: phuongtran@tekcafe.vn
   github: futranbg
   facebook: phuongtranbg
-  googleplus: +AnkanBiswasWorkspace
-  bio: "Simple, clean, responsive and stylist theme for jekyll. "
-  Tekcafe team: https://raw.githubusercontent.com/futranbg/futranbg.github.io/master/logo-team.png
+  googleplus: +phuongtranbg
+  bio: "We make the different"
+  Futranbg: https://raw.githubusercontent.com/futranbg/futranbg.github.io/master/logo-team.png
