@@ -1,8 +1,9 @@
 ---
 
 layout: post
-
 title: VEGA A860, the old strong man!
+desc: A new look at the old VEGA A860. Its still strong enough with IPS full-hd, Quad-core 1,5GHz, 2GB RAM, 32G internal storage.
+keywords: VEGA, A860, Pantech, Tekcafe, Tekcafe Team, Lollipop, brand new, project, custom rom, feeling, performance
 
 ---
 

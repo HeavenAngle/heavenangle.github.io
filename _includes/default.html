@@ -4,8 +4,16 @@
 
 		<title>{{ page.title }}</title>
 
-	{% if page.description %}
-	<meta name="description" content="{{ page.description }}">
+	{% if page.desc %}
+	<meta name="description" content="{{ page.desc }}" />
+ 	{% else %}
+ 	<meta name="description" content="This is futranbg blog. Hope my blog will help Tekcafe Team figure out a creative thingking." />
+ 	{% endif %}
+
+	{% if page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}" />
+	{% else %}
+	<meta name="keywords" content="tekcafe, android, forum, developer, development, team work, cyannogenmod, android custom, ROM, việt hoá, vietnamese developer, futranbg, phuongtranbg, android developing, VEGA, Pantech, SKY, rom ổn định, rom stock, rom tekcafe" />
 	{% endif %}
 
 	<meta name="author" content="{{ site.author.name }}">
